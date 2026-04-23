@@ -42,7 +42,7 @@ RAG_project/
 
 
 ## 📸 Example Output
-![image alt].(https://github.com/sifat29/Rag_application/blob/c750c057c70ab1621cfb16adfcef68d52e9137bb/Rag_application_git/assets/output.png)
+![image alt](https://github.com/sifat29/Rag_application/blob/c750c057c70ab1621cfb16adfcef68d52e9137bb/Rag_application_git/assets/output.png)
 
 -------------------------------------------------------------------------------------------------------------
 
