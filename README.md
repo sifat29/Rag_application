@@ -65,8 +65,8 @@ python main.py What is YOLOv5?
 
 ## 📸 Example Output
 
-![RAG Output](assets/output.png)
-<img src="assets/output.png" width="700">
+![image_alt].(https://github.com/sifat29/Rag_application/blob/a65b67762438115a0f96d8ad855b2bf3239dc0ab/Rag_application_git/assets/output.png)
+
 
 ⚠️ Notes
 First run may take longer due to embedding generation
