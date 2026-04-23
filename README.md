@@ -41,8 +41,10 @@ RAG_project/
 └── README.md
 
 
+## 📸 Example Output
+![image_alt].(https://github.com/sifat29/Rag_application/blob/a65b67762438115a0f96d8ad855b2bf3239dc0ab/Rag_application_git/assets/output.png)
 
----
+-------------------------------------------------------------------------------------------------------------
 
 ## ⚙️ Installation
 
@@ -62,11 +64,6 @@ set GROQ_API_KEY=your_api_key_here   # Windows
 
 Run with a query from command line:
 python main.py What is YOLOv5?
-
-## 📸 Example Output
-
-![image_alt].(https://github.com/sifat29/Rag_application/blob/a65b67762438115a0f96d8ad855b2bf3239dc0ab/Rag_application_git/assets/output.png)
-
 
 ⚠️ Notes
 First run may take longer due to embedding generation
