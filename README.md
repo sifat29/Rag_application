@@ -45,6 +45,16 @@ RAG_project/
 ![image alt](https://github.com/sifat29/Rag_application/blob/c750c057c70ab1621cfb16adfcef68d52e9137bb/Rag_application_git/assets/output.png)
 
 -------------------------------------------------------------------------------------------------------------
+📚 Inspiration
+
+This project was inspired by:
+https://github.com/krishnaik06/RAG-Tutorials
+
+Enhancements include:
+
+Updated models and dependencies
+Improved usability
+Optimized pipeline design
 
 ## ⚙️ Installation
 
